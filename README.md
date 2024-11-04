@@ -1,4 +1,5 @@
 # Presentations
 A repository for presentations
 
-[Link to new presentation](test.html)
+[Link to presentation](Biography.html)
+[Link to CV](main.tex)
